@@ -1,0 +1,85 @@
+.pub .title
+{
+font-weight: bold;
+}
+.pub .link a
+{
+	text-decoration: underline;
+}
+.pub
+{
+font-size: 9pt;
+margin: 10pt 0pt 10pt 0pt;
+}
+.pub .bibTex
+{
+border: 1px solid #777;
+background-color: #f8f8f8;
+padding: 1px 3px 1px 3px;
+font-size: 8pt;
+margin-top: 5px;
+}
+
+.publication
+{
+	font-size:11pt;
+	margin: 1pt 0pt 1pt 0pt;
+}
+.publication .title
+	{font-weight:bold; display:block;}
+#research .publication .title
+	{font-weight:normal}
+.publication .author
+	{display:block; }
+.publication .booktitle
+	{font-style:italic;}
+.publication .journal
+	{font-style:italic;}
+.publication .howpublished
+	{font-style:italic;}
+
+.publication .address
+	{}
+.publication .volume
+	{}
+.publication .number
+	{}
+.publication .date
+	{}
+.publication .pages
+	{}
+.publication .citations a
+	{color: #080; font-weight:bold}
+.publication .abstract
+{
+	padding: 5px 10px 10px 10px;
+	border: 1px solid #aaa;
+	background-color: #C6EDFD;
+	margin-top: 5px;
+	font-size: 8pt;
+	display:none;
+	text-align:justify;
+}
+.publication .abstract .hdr
+	{font-weight:bold;margin-bottom:5px;}
+.publication .bibTex
+{
+	padding: 5px;
+	border: 1px solid #aaa;
+	background-color: #e0f1fb;
+	margin-top: 5px;
+	font-size: 8pt;
+	display:none;
+}
+.publication .bibType
+{
+	font-weight: bold;
+}
+.publication .bibTex .bibAttrib
+{
+	margin-left: 20px;	
+}
+.publication .dim
+{
+	color: #888;
+}
